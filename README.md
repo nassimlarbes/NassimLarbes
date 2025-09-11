@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nassim Larbes</h1>
 <h3 align="center">I'm an aspiring Software Engineer currently studying software engineering at Laval Univeristy.</h3>
 
-                                             📫 You can reach me at :  mnlar2@ulaval.ca
+                                             📫 You can reach me at :  nassim.larbes1@gmail.com
 
 <h3 align="left">Connect with me on Linkedin : </h3>
 <p align="left">
