@@ -3,8 +3,7 @@
 
 <p align="center">
   📫 <a href="mailto:nassim.larbes1@gmail.com">nassim.larbes1@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/nassimlarbes-a71a14213/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://www.nassimlarbes.com" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/nassim-larbes-a71a14213/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
 </p>
 
 ---
@@ -63,14 +62,11 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ IDEA"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="36" height="36" alt="WebStorm"/>
 </p>
 
----
-
-### 📌 University & Personal Projects
-- PSTQ eligibility calculator for Québec immigration.
-- Full-stack web apps with CRUD, auth, search, and file handling.
-- Backend services with REST APIs (Spring Boot / Flask) and CI/CD.
 
 ---
 
