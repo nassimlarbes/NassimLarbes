@@ -14,6 +14,11 @@
 - Interested in backend, DevOps, and data-driven features.
 - Currently learning and shipping with TypeScript/Node, Java/Spring, and Python/Flask.
 
+### 🌐 Languages
+- French (native/proficient)
+- English (professional)
+- Arabic (professional)
+
 ---
 
 ### 🧰 Tech Stack
