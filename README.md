@@ -9,9 +9,9 @@
 ---
 
 ### 👩‍💻 About me
+- I love building things, drinking coffee, and working on large-scale enterprise softwares.
 - I enjoy building practical tools and full-stack apps that solve real problems.
-- Interested in backend, DevOps, and data-driven features.
-- Currently learning and shipping with TypeScript/Node, Java/Spring, and Python/Flask.
+- Expected graduation: **Fall 2026**.
 
 ### 🌐 Languages
 - French (native/proficient)
